@@ -17,7 +17,6 @@ public class User {
     private String surname;
 
     public User(String name, String surname) {
-        this.id = id;
         this.name = name;
         this.surname = surname;
     }
